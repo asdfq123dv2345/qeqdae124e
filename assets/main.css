@@ -35,7 +35,7 @@ body:after {
 	background-color: #C2D0D7;
 	content: '';
 	display: block;
-	height: 100%;
+	height: 90%;
 	left: 0;
 	opacity: 0;
 	position: fixed;
